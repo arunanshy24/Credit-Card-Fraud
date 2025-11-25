@@ -10,7 +10,6 @@ You can paste this directly into your repository’s `README.md`.
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 An in-depth model comparison study to identify the most robust and precise algorithm for detecting fraudulent credit card transactions in a highly imbalanced dataset.
 
@@ -23,10 +22,6 @@ An in-depth model comparison study to identify the most robust and precise algor
 * [Conclusion / Summary](#-conclusion--summary)
 * [Methodology & Models](#-methodology--models)
 * [Project Structure](#-project-structure)
-* [Installation](#-installation)
-* [Usage](#-usage)
-* [Author](#-author)
-* [License](#-license)
 
 ---
 
@@ -109,55 +104,5 @@ Processing steps included:
 
 ---
 
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/yourusername/financial-sentinel.git
-cd financial-sentinel
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-### Run training:
-
-```bash
-python src/train.py
-```
-
-### Run evaluation:
-
-```bash
-python src/evaluate.py
-```
-
-### Jupyter Notebook:
-
-```bash
-jupyter notebook notebooks/fraud_detection.ipynb
-```
-
----
-
-## 👤 Author
-
-**Your Name**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-If you'd like, I can also:
-✅ Generate a **professional project logo**
-✅ Add **GitHub badges for stars, forks, issues**
-✅ Create a **requirements.txt** or **project banner image**
 
 Just tell me!
