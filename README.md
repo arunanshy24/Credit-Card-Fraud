@@ -1,5 +1,3 @@
-## The link of the dataset: "https://www.kaggle.com/mlg-ulb/creditcardfraud"
-
 🛡️ Financial Sentinel: Ensemble ML for Fraud Detection
 
 An in-depth analysis and model comparison study to identify the most robust and precise algorithm for detecting fraudulent credit card transactions in a highly imbalanced dataset.
@@ -30,7 +28,7 @@ This analysis focuses on comparing the performance of six diverse models, using 
 
 🏆 Key Findings & Best Model
 
-The study compared six models across three key metrics: Accuracy, AUC-ROC Score, and Precision Score.
+The study compared six models across three key metrics: Accuracy, AUC-ROC Score, and Precision Score. 
 
 Best Model Recommendation
 
@@ -144,3 +142,13 @@ Data visualization and plotting
 sklearn
 
 Machine learning models (Ensembles, Trees) and metrics
+
+⚖️ License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+📧 Contact
+
+Your Name - [Insert Contact Method, e.g., LinkedIn/GitHub Profile Link]
+
+Project Link: https://github.com/YourUsername/YourProjectName
