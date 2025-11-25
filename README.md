@@ -99,6 +99,3 @@ Processing steps included:
 ```
 
 ---
-
-
-Just tell me!
