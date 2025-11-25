@@ -1,7 +1,3 @@
-Here is your **fully polished, GitHub-optimized README.md** with badges, better structure, anchors, formatting, tables, and clear sectioning.
-You can paste this directly into your repository’s `README.md`.
-
----
 
 # 🛡️ Financial Sentinel
 
